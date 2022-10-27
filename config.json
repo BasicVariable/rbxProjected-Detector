@@ -1,0 +1,6 @@
+{
+    "rateLimit":{
+        "period": 60000,
+        "maxRequests": 2
+    }
+}
